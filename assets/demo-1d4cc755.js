@@ -1,0 +1,1 @@
+import{d as o,h as n,l as t,u as a,o as r,V as s,W as _}from"./index-85378efa.js";const u=o({__name:"demo",setup(m){const e=s(()=>_(()=>import("./index-d64ef2ed.js"),["./index-d64ef2ed.js","./index-85378efa.js","./index-e1ad0370.css"],import.meta.url));return(c,p)=>(r(),n(t(a(e))))}});export{u as default};
