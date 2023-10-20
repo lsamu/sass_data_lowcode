@@ -1,0 +1,1 @@
+import{_ as t}from"./index-033bd75d.js";import{ah as o,l as r,O as s}from"./vue-5a70a57f.js";import"./element-plus-990c01d8.js";const n={};function a(c,_){const e=o("system-drag-table-tree");return r(),s(e)}const l=t(n,[["render",a]]);export{l as default};
