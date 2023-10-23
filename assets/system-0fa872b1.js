@@ -1,0 +1,1 @@
+import{_ as e}from"./index-9337c06d.js";import{m as r,l as t}from"./vue-5a70a57f.js";import"./element-plus-f9eb9fa8.js";const o={};function c(n,s){return t(),r("div",null," 系统管理 ")}const f=e(o,[["render",c]]);export{f as default};
