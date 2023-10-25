@@ -1,0 +1,1 @@
+import{b as o}from"./index-17f85752.js";import{H as t,O as r,R as n,u as a,l as s,aD as m}from"./vue-5a70a57f.js";import"./element-plus-f9eb9fa8.js";const l=t({__name:"demo",setup(_){const e=m(()=>o(()=>import("./index-58109612.js"),["./index-58109612.js","./vue-5a70a57f.js"],import.meta.url));return(p,i)=>(s(),r(n(a(e))))}});export{l as default};
