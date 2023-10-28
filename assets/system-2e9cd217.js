@@ -1,0 +1,1 @@
+import{_ as e}from"./index-4c296f54.js";import{m as r,l as t}from"./vue-2e755854.js";import"./element-plus-50ddfeed.js";const o={};function c(n,s){return t(),r("div",null," 系统管理 ")}const f=e(o,[["render",c]]);export{f as default};
