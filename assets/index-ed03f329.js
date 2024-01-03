@@ -1,0 +1,1 @@
+import{_ as e}from"./index.vue_vue_type_style_index_0_lang-088f5adb.js";import{H as o,O as r,l as t}from"./vue-4dc1f235.js";import"./index-7491556e.js";import"./element-plus-e31761d8.js";const i=o({__name:"index",setup(a){return(n,_)=>(t(),r(e))}});export{i as default};
