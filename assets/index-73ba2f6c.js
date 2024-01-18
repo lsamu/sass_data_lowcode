@@ -1,1 +1,0 @@
-import{_ as e}from"./index-7491556e.js";import{m as r,l as o}from"./vue-4dc1f235.js";import"./element-plus-e31761d8.js";const t={};function c(n,s){return o(),r("div",null," 3d ")}const f=e(t,[["render",c]]);export{f as default};
